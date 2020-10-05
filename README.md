@@ -1,5 +1,8 @@
 # nfl_nextgenstats_data
- Weekly data scraped from NFL Next Gen Stats website
+This repository is no longer maintained, legacy data is still available. Go to https://github.com/mrcaseb/nfl-data/tree/master/data/ngs for updated data. 
+
+# Archived
+Weekly data scraped from NFL Next Gen Stats website
 
 Data runs from 2016-present.
 
